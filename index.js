@@ -21,3 +21,5 @@ function switchOnCharmFromTip(tip){
       break;
   }
 }
+
+console.log(switchOnCharmFromTip('generous'))
