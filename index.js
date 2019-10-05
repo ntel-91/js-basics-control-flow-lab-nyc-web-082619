@@ -25,4 +25,3 @@ function switchOnCharmFromTip(tip){
   }
 }
 
-console.log(switchOnCharmFromTip('meh generous'))
